@@ -8,6 +8,9 @@ This project allows you to upload PDF documents, process them, and then engage i
 
 `pip install -r requirements.txt`
 
+**Architecture**
+![image](https://github.com/SrilathaDama/Chatbot/assets/108073535/3cd1e350-1386-46cd-bd1c-459eb6a24674)
+
 ### How it Works
 1. GUI Development: The application's graphical user interface (GUI) is built using Streamlit, providing an intuitive and user-friendly interface for document upload, processing, and chat interaction.
 2. Document Processing: Upon document upload, the application reads text from PDF files and splits it into chunks for efficient processing.
